@@ -1,6 +1,6 @@
 # ZTM-Music-Player
 This is pratice from ZTM classes: [javascript-web-projects-to-build-your-portfolio-resume-第十章](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/?couponCode=ACCAGE0923)
-> [click to watch the demo](https://joeban0608.github.io/ZTM-Music-Player/)
+> [click to watch the demo](https://joeban0608.github.io/ZTM-Music-Player/)  
 resoure:
   - mdn img object-fit: https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit
   - w3s HTML Audio/Video DOM Reference: https://www.w3schools.com/tags/ref_av_dom.asp
