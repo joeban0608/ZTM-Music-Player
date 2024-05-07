@@ -15,6 +15,7 @@ resoure:
           </button>
           ```
       - what is this
+          <img width="829" alt="w3s-this" src="https://github.com/joeban0608/ZTM-Music-Player/assets/80736596/776e7252-a7fe-417c-8be1-56261e60e9a6">
           
   - textContent: https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent
       
